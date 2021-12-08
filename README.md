@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @russiankidgohax
+- 👀 I’m interested in CS, Math and Physics.
+- 🌱 I’m currently learning C#, Compiler structures, Rust.
